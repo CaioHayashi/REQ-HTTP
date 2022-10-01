@@ -16,19 +16,9 @@
       "price": 29.9
     },
     {
-      "name": "Calça Cargo",
-      "price": "110.5",
+      "name": "Mouse ",
+      "price": "120",
       "id": 4
-    },
-    {
-      "name": "Cabo USB",
-      "price": "11.9",
-      "id": 5
-    },
-    {
-      "name": "Cadeira",
-      "price": "200",
-      "id": 6
     }
   ]
 }
